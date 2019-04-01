@@ -5,9 +5,10 @@ Os objetivos do seu primeiro projeto nessa disciplina são os seguintes:
 Mais especificamente, para concluir o projeto você deverá executar as seguintes atividades:
 1-Ler com atenção o seguinte artigo: https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt;
 2-Criar um fork do repositório da disciplina (https://github.com/prga/cc0003) e cloná-lo em sua máquina;
-2-Pesquisar e escolher 6 fatos históricos sobre computação;
-3-Escrever no arquivo A_historia_da_Computacao.txt um parágrafo sobre o fato histórico informando o ano em que ele ocorreu e sua importância para a história da computação (seguindo o padrão que já existe no arquivo);
-4- Se o fato histórico que você escolheu já existir no arquivo, melhore o texto que tem lá, adicionando novas informações sobre o fato;
-3-Ao final da atividade, atualize seu fork para pegar as últimas mudanças e resolve eventuais conflitos;
-4-Submeta um pull-request para o repositório da disciplina;
-4-Seu projeto será considerado entregue quando suas contribuições aparecerem no repositório da dsiciplina.
+3-Pesquisar e escolher 6 fatos históricos sobre computação;
+4-Escrever no arquivo A_historia_da_Computacao.txt um parágrafo sobre o fato histórico informando o ano em que ele ocorreu e sua importância para a história da computação (seguindo o padrão que já existe no arquivo);
+5- Se o fato histórico que você escolheu já existir no arquivo, melhore o texto que tem lá, adicionando novas informações sobre o fato;
+6-Ao final da atividade, atualize seu fork para pegar as últimas mudanças e resolve eventuais conflitos;
+7-Submeta um pull-request para o repositório da disciplina;
+8-Seu projeto será considerado entregue quando suas contribuições aparecerem no repositório da disciplina.
+O prazo de entrega do pull-request será até 08/04/2019 às 23:59. 
