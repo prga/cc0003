@@ -1,0 +1,10 @@
+Seja bem-vindo ao GitHub. =)
+Os objetivos do seu primeiro projeto nessa disciplina são os seguintes:
+-Conhecer um pouco mais sobre a história da computação
+-Aprender os comandos básicos do Git e colaborar com um projeto remoto no GitHub
+Mais especificamente, para concluir o projeto você deverá executar as seguintes atividades:
+1-Clonar o repositório do projeto
+2-Pesquisar e escolher 6 fatos históricos sobre computação
+3-Escrever um parágrafo sobre o fato histórico informando o ano em que ele ocorreu e sua importância para a história da computação (seguindo o padrão que já existe no arquivo)
+3-No arquivo A_historia_da_Computacao.txt adicionar seus 3 pontos novos, respeitando a cronologia do arquivo (cada fato começa com o ano em que ocorreu)
+4-
