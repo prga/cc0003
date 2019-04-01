@@ -3,8 +3,11 @@ Os objetivos do seu primeiro projeto nessa disciplina são os seguintes:
 -Conhecer um pouco mais sobre a história da computação
 -Aprender os comandos básicos do Git e colaborar com um projeto remoto no GitHub
 Mais especificamente, para concluir o projeto você deverá executar as seguintes atividades:
-1-Clonar o repositório do projeto
-2-Pesquisar e escolher 6 fatos históricos sobre computação
-3-Escrever um parágrafo sobre o fato histórico informando o ano em que ele ocorreu e sua importância para a história da computação (seguindo o padrão que já existe no arquivo)
-3-No arquivo A_historia_da_Computacao.txt adicionar seus 3 pontos novos, respeitando a cronologia do arquivo (cada fato começa com o ano em que ocorreu)
-4-
+1-Ler com atenção o seguinte artigo: https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt;
+2-Criar um fork do repositório da disciplina (https://github.com/prga/cc0003) e cloná-lo em sua máquina;
+2-Pesquisar e escolher 6 fatos históricos sobre computação;
+3-Escrever no arquivo A_historia_da_Computacao.txt um parágrafo sobre o fato histórico informando o ano em que ele ocorreu e sua importância para a história da computação (seguindo o padrão que já existe no arquivo);
+4- Se o fato histórico que você escolheu já existir no arquivo, melhore o texto que tem lá, adicionando novas informações sobre o fato;
+3-Ao final da atividade, atualize seu fork para pegar as últimas mudanças e resolve eventuais conflitos;
+4-Submeta um pull-request para o repositório da disciplina;
+4-Seu projeto será considerado entregue quando suas contribuições aparecerem no repositório da dsiciplina.
