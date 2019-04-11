@@ -6,10 +6,30 @@
 
 -1945 -> Segundo o Computer History Museum, o inventor alemão Konrad Zuse começou a desenvolver o Plan Calculus em 1945 - a primeira linguagem de programação que utilizava algoritmos - e criou também o primeiro computador programável durante os anos 40. A matemática Grace Hopper também começava a trabalhar em uma linguagem de programção baseada em palavras que foi chamada inicialmente de "A-0", mas, mais tarde, teve seu nome mudado para COBOL. Até hoje, utiliza-se linguagens que foram inspiradas pelos modelos do COBOL, utilizando palavras como comandos e sendo baseadas em algoritmos.
 
+-1956 -> No MIT (Massachussets Institute of Technology) pesquisadores começaram a testar entrada de dados em teclados de computadores.
+
 -1960 -> Durante a Guerra Fria, pesquisas militares trabalhavam em meios de comunicação e transferência de informação eficientes. Dessa forma surgiu a forma mais primitiva da Internet - uma rede de computadores chamada ARPANET, inspirado por um projeto do pesquisados Leonard Kleinrock do MIT. O primeiro "nó" da Internet foi instalado em uma universidade em Los Angeles e expandido ligando computadores em quatro universidades na Califórnia e Utah.
+
+-1960 -> John McCarthy teve a ideia de unir simultaneamente dois ou mais usuários usando um mesmo computador (Computação por tempo compartilhado). Joseph Carl Robnett Licklide dizia todos os indivíduos deveriam estar conectados entre si seja por programas em qualquer lugar do mundo. Assim Licklide teve a ideia de compartilhamento de dados e suas pesquisas na época abriram portas para a Internet.
+
+-1960 -> Desenhado o Dataphone, primeiro modem comercial, especificamente para converter sinais digitais de computador em sinais analógicos para a transmissão através de suas redes de longa distância. Uma equipe liderada por vários fabricantes de computadores e o Pentágono desenvolveram o COBOL, Common Business Oriented Language, a primeira linguagem voltada para o uso em programação.
 
 -1970s -> O inicio dos computadores pessoais foi em 1970. O Kenbak-1 foi o primeiro computador pessoal e foi desenvolvido por John Blankenbaker em 1971 na sua própria garagem. Kenbak-1 custava US$ 750 e usava interruptores no lugar de um teclado. Além disso, sua memória era capaz de armazenar apenas 256 caracteres. Blankenbaker vendeu 40 unidades do Kenbak-1 e descontinuou sua produção. Em 1973, quando o Kenbak-1 parou de ser produzido, surgiu o Micral N, um computador pessoal francês que incorporava uma tecnologia de economia de espaço e custava US$ 1700. Esses foram os primórdios dos computadores pessoais como os conhecemos hoje, a contribuição desses primeiros modelos, juntamente com a evolução da eletrônico foram muito importantes no desenvolvimentos dos computadores modernos.
 
+-1971 -> Em meados de 1971 surgiram os primeiros dispositivos, denominados Disquetes ou floppy-disks, traduzido para o português como Disco Flexível, com o formato de 3½-polegadas, 8 polegadas e na sequência de 5"1/4.
+
+-1972 -> Ray Tomlinson cria o primeiro software permitindo o envio de e-mail entre computadores. Bob Kahn organiza uma demonstração pública da ARPANET com 40 maquinas na 'International Conference on Computer Communications'. Criado o Inter-Networking Group (INWG) para desenvolver padrões para a ARPANET.
+
+-1975 -> A edição de janeiro do The Popular Electronics anunciou o Altair 8800, baseado em um microprocessador Intel 8080. Telenet, a primeira rede comercial, equivalente a ARPANET, foi implantada. O protótipo do módulo de indicador visual (VDM), projetado por Lee Felsenstein, marcou a primeira execução de um indicador video alfanumérico memory-mapped para computadores pessoais. A Tandem Computers lançou o Tandem-16, o primeiro computador fault-tolerant para transação on-line de processos.
+
+-1989 -> O número de hosts na internet ultrapassam os 100.000. O número de pedidos de arquivos on-line via FTP e info-Server ultrapassam a casa de 1.000 por mês. Surge o Yahoo.
+
 -1990 -> O cientista da computação Tim Berners-Lee criou a World Wide Web, enquanto trabalhava em um laboratório suíço em 1990. A WWW foi basicamente a percusora da internet como a conhecemos e foi também Berners-Lee que introduziu o uso de URLs e o uso do protocolo de transferência de hipertexto - o HTML. Ainda no mesmo ano, Berners-Lee desenvolveu o primeiro browser e o primeiro website do mundo. Suas contribuições popularizaram a internet e tornaram mais fácil o uso de computadores pessoais por pessoas leigas e que nunca tiveram um treinamento tecnico de computação.
+
+-1991 -> A Web nasceu em 1991 no laboratório CERN, na Suíça. Seu criador, Tim Berners-Lee, a concebeu apenas como uma linguagem que serviria para interligar computadores do laboratório e outras instituições de pesquisas e exibir documentos científicos de forma simples e fácil de acessar.
+
+-1991 -> Em meados de 1991, surgiu o CD (Compact Disc) com capacidade para armazenar até 700 MB ou 79 minutos de áudio. Na sequência o CD se aprimorou para o tipo CD-R, que pode ser reescrito. E depois o CDR-W, também conhecido como disco compacto regravável ou conhecido como CD-Erasable (CD-E).
+
+-1995 -> Toy Story é o primeiro filme de longa metragem inteiramente gerado por computador. Windows 95 é lançado em 24 de agosto com uma grande onda de marketing. A linguagem de programção Java , revelada em maio, permite o desenvolvimento de aplicações independentes de plataformas. “Duke” é o primeiro applet.
 
 -1998 -> A fundação do Google.
